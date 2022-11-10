@@ -1,27 +1,30 @@
-# Apm
+https://github.com/Deborahk/Angular-GettingStarted
+What is Angular?
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+Components:
 
-## Development server
+-We think in appplication of angular as a set of components
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Is Conformed for:
 
-## Code scaffolding
+Component = template + class(properties, methods) + Metadata
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Template: Represent of fragment of user interface
 
-## Build
+Class: Code supporting the view created with TypeScript that contain the properties and methods for interact logic in the view
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Metadata: Provides adcional information about angular componet these are defined as decorator
 
-## Running unit tests
+Decorator: A function that adds metadata to a class, its members, or its method arguments.
+Is defined as prexied with an @
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+A component is a set of(Component decorator - Directive Name used in HTML - View layout)
+-------------------
 
-## Running end-to-end tests
+Templates, Interpolation and directives.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Binding: Coordinates communication between the component's class and its template and often involves passing data.
 
-## Further help
+Interpolation: The interpolation is a binding unidirectional from the class propoerty to template (Temple expression)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+key: Add of selector as a directive in the container of template of component
