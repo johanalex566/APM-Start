@@ -1,27 +1,57 @@
-# Apm
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+What is Angular?
+-------------------
 
-## Development server
+**Components**:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![image](https://user-images.githubusercontent.com/40399697/200983865-9013a9f4-6878-4952-964a-72db51bbc36b.png)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-We think in appplication of angular as a set of components
 
-## Build
+Is Conformed for:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Component = template + class(properties, methods) + Metadata
 
-## Running unit tests
+Template: Represent of fragment of user interface
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Class: Code supporting the view created with TypeScript that contain the properties and methods for interact logic in the view
 
-## Running end-to-end tests
+Metadata: Provides adcional information about angular componet these are defined as decorator
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Decorator: A function that adds metadata to a class, its members, or its method arguments.
+Is defined as prexied with an @
 
-## Further help
+A component is a set of(Component decorator - Directive Name used in HTML - View layout)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+**Interpolation**
+
+Binding: Coordinates communication between the component's class and its template and often involves passing data.
+
+Interpolation: The interpolation is a binding unidirectional from the class propoerty to template (Temple expression)
+
+key: Add of selector as a directive in the container of template of component
+
+**Directive**
+
+Custom HTML element or attribute used to power up and extend our HTML
+
+-We can used the integration directive of angular as a *NgIF, ngFor
+
+The '*' mark as a structural directive
+
+![image](https://user-images.githubusercontent.com/40399697/200983561-25ef3bb6-6449-476e-af5b-d6c9018e719f.png)
+
+We can also use a custom directive.
+
+![image](https://user-images.githubusercontent.com/40399697/200986064-d3d02a8a-5616-466b-a27a-09c3142f23f9.png)
+
+
+
+
+https://github.com/Deborahk/Angular-GettingStarted
+
+Application structure
+![image](https://user-images.githubusercontent.com/40399697/200986679-9e73c4b8-aa53-4ccd-ab7c-18302982a44e.png)
+
