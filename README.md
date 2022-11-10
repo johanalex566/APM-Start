@@ -1,8 +1,8 @@
-https://github.com/Deborahk/Angular-GettingStarted
+
 What is Angular?
 -------------------
 
-Components:
+**Components**:
 
 -We think in appplication of angular as a set of components
 
@@ -29,3 +29,5 @@ Binding: Coordinates communication between the component's class and its templat
 Interpolation: The interpolation is a binding unidirectional from the class propoerty to template (Temple expression)
 
 key: Add of selector as a directive in the container of template of component
+
+https://github.com/Deborahk/Angular-GettingStarted
