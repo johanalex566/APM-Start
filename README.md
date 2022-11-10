@@ -4,6 +4,9 @@ What is Angular?
 
 **Components**:
 
+![image](https://user-images.githubusercontent.com/40399697/200983865-9013a9f4-6878-4952-964a-72db51bbc36b.png)
+
+
 -We think in appplication of angular as a set of components
 
 Is Conformed for:
@@ -29,5 +32,16 @@ Binding: Coordinates communication between the component's class and its templat
 Interpolation: The interpolation is a binding unidirectional from the class propoerty to template (Temple expression)
 
 key: Add of selector as a directive in the container of template of component
+
+**Directive**
+
+Custom HTML element or attribute used to power up and extend our HTML
+
+-We can used the integration directive of angular as a *NgIF, ngFor
+
+The '*' mark as a structural directive
+
+![image](https://user-images.githubusercontent.com/40399697/200983561-25ef3bb6-6449-476e-af5b-d6c9018e719f.png)
+
 
 https://github.com/Deborahk/Angular-GettingStarted
