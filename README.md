@@ -25,7 +25,7 @@ Is defined as prexied with an @
 A component is a set of(Component decorator - Directive Name used in HTML - View layout)
 
 
-**Templates, Interpolation and directives.**
+**Interpolation**
 
 Binding: Coordinates communication between the component's class and its template and often involves passing data.
 
