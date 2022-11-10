@@ -43,5 +43,11 @@ The '*' mark as a structural directive
 
 ![image](https://user-images.githubusercontent.com/40399697/200983561-25ef3bb6-6449-476e-af5b-d6c9018e719f.png)
 
+We can also use a custom directive.
+
+![image](https://user-images.githubusercontent.com/40399697/200986064-d3d02a8a-5616-466b-a27a-09c3142f23f9.png)
+
+
+
 
 https://github.com/Deborahk/Angular-GettingStarted
