@@ -1,5 +1,6 @@
 https://github.com/Deborahk/Angular-GettingStarted
 What is Angular?
+-------------------
 
 Components:
 
@@ -19,9 +20,9 @@ Decorator: A function that adds metadata to a class, its members, or its method 
 Is defined as prexied with an @
 
 A component is a set of(Component decorator - Directive Name used in HTML - View layout)
--------------------
 
-Templates, Interpolation and directives.
+
+**Templates, Interpolation and directives.**
 
 Binding: Coordinates communication between the component's class and its template and often involves passing data.
 
