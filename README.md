@@ -51,3 +51,7 @@ We can also use a custom directive.
 
 
 https://github.com/Deborahk/Angular-GettingStarted
+
+Application structure
+![image](https://user-images.githubusercontent.com/40399697/200986679-9e73c4b8-aa53-4ccd-ab7c-18302982a44e.png)
+
