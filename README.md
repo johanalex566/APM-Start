@@ -55,3 +55,12 @@ https://github.com/Deborahk/Angular-GettingStarted
 Application structure
 ![image](https://user-images.githubusercontent.com/40399697/200986679-9e73c4b8-aa53-4ccd-ab7c-18302982a44e.png)
 
+
+**Data Binding & Pipes**:
+------------
+
+![image](https://user-images.githubusercontent.com/40399697/204953310-dad971a6-b5a0-4c3e-be7a-ee9fc94e9832.png)
+
+![image](https://user-images.githubusercontent.com/40399697/204954866-d9844c59-fcd5-40be-8589-ee9ada16f8a5.png)
+
+
