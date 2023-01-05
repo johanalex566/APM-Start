@@ -47,10 +47,6 @@ We can also use a custom directive.
 
 ![image](https://user-images.githubusercontent.com/40399697/200986064-d3d02a8a-5616-466b-a27a-09c3142f23f9.png)
 
-**Types of data binding**
-
-![image](https://user-images.githubusercontent.com/40399697/210692993-5ae72a51-32b3-4973-83cc-963ef898d21f.png)
-
 
 
 Application structure
@@ -64,7 +60,9 @@ Application structure
 
 ![image](https://user-images.githubusercontent.com/40399697/204954866-d9844c59-fcd5-40be-8589-ee9ada16f8a5.png)
 
+**Types of data binding**
 
+![image](https://user-images.githubusercontent.com/40399697/210692993-5ae72a51-32b3-4973-83cc-963ef898d21f.png)
 
 
 
