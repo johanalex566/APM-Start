@@ -64,6 +64,9 @@ Application structure
 
 ![image](https://user-images.githubusercontent.com/40399697/210692993-5ae72a51-32b3-4973-83cc-963ef898d21f.png)
 
+**More on components**
+
+![image](https://user-images.githubusercontent.com/40399697/218627866-87a44398-a303-4018-ad42-1132aae76cfc.png)
 
 
 https://github.com/Deborahk/Angular-GettingStarted
