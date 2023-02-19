@@ -72,6 +72,7 @@ Application structure
 
 ![image](https://user-images.githubusercontent.com/40399697/219904884-2edb8832-0acd-4e18-8981-cb6c55592e5c.png)
 
+![image](https://user-images.githubusercontent.com/40399697/219904998-029cd3f2-7fac-488e-9723-b88b6ba8f049.png)
 
 
 
