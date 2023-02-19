@@ -60,7 +60,19 @@ Application structure
 
 ![image](https://user-images.githubusercontent.com/40399697/204954866-d9844c59-fcd5-40be-8589-ee9ada16f8a5.png)
 
+**Types of data binding**
 
+![image](https://user-images.githubusercontent.com/40399697/210692993-5ae72a51-32b3-4973-83cc-963ef898d21f.png)
+
+**More on components**
+
+![image](https://user-images.githubusercontent.com/40399697/218627866-87a44398-a303-4018-ad42-1132aae76cfc.png
+
+![image](https://user-images.githubusercontent.com/40399697/219904831-119ee11d-f638-4458-b11e-59bdc1cd9d98.png)
+
+![image](https://user-images.githubusercontent.com/40399697/219904884-2edb8832-0acd-4e18-8981-cb6c55592e5c.png)
+
+![image](https://user-images.githubusercontent.com/40399697/219904998-029cd3f2-7fac-488e-9723-b88b6ba8f049.png)
 
 
 
